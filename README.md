@@ -1,8 +1,6 @@
-# ProShop eCommerce Platform
+# Retrofy eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
-
-This is the project made by following steps of:  [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
 DEMO VERSION: https://retrofyshopapp.herokuapp.com/
 
